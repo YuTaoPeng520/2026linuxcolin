@@ -1,6 +1,10 @@
 #include <stdio.h>
-int main(){
+int function(){
+	printf("aaaa");
 
-	printf("hello!");
+	printf("aaaa");
+	printf("aaaa");
+	printf("aaaa");
+	
 	return 0;
 }
